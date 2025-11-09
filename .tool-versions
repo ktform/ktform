@@ -1,0 +1,11 @@
+rust 1.91.0
+protoc 33.0
+java temurin-25.0.1+8.0.LTS
+gradle 9.2.0
+nodejs 25.1.0
+
+helm 3.19.0
+
+trivy 0.67.2
+syft 1.37.0
+grype 0.103.0
